@@ -1,0 +1,21 @@
+_repo: Silence-En-Otage-Poesie_4741
+creator:
+  author:
+    agent_name: Bertrand, Huguette
+    gutenberg_agent_id: '1509'
+    url: http://www.gutenberg.org/2009/agents/1509
+description: Text, HTML and MIDI files
+gutenberg_bookshelf: FR Poésie
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4741'
+language: fr
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+title: 'Silence En Otage: Poésie'
+url: http://www.gutenberg.org/ebooks/4741
