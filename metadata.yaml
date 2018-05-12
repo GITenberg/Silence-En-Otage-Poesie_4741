@@ -1,11 +1,16 @@
 _repo: Silence-En-Otage-Poesie_4741
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bertrand, Huguette
     gutenberg_agent_id: '1509'
     url: http://www.gutenberg.org/2009/agents/1509
 description: Text, HTML and MIDI files
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4741#Silence-En-Otage-Poesie
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
